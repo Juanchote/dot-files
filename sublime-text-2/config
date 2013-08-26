@@ -1,0 +1,28 @@
+Preferences.sublime-settings - User
+
+Instalar package control
+
+{
+  "color_scheme": "Packages/Theme - Phoenix/Color Scheme/Tomorrow-Night.tmTheme",
+  "ignored_packages":
+  [
+    "vintage"
+  ],
+  "phoenix_color_blue": true,
+  "phoenix_color_expanded_folder": true,
+  "phoenix_dirty_bottom_bar_red": true,
+  "phoenix_highlight_current_tab": true,
+  "phoenix_tabs_auto_width": true,
+  "phoenix_tabs_medium": true,
+  "tab_size": 2,
+  "theme": "Phoenix Dark.sublime-theme",
+  "translate_tabs_to_spaces": true
+}
+
+
+
+Default.sublime-keymap - User
+
+[
+  { "keys": ["f1"], "command": "toggle_side_bar" }
+]
