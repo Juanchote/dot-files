@@ -11,3 +11,6 @@ __vim__
 
 __git__
 > ~/.gitconfig
+
+__tmux__
+> ~/.tmux.conf
