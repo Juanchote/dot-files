@@ -4,4 +4,4 @@ set shiftwidth=2
 set expandtab
 syntax enable
 color vividchalk
-colorscheme default
+colorscheme evening 
