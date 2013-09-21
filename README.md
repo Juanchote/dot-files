@@ -14,3 +14,9 @@ __git__
 
 __tmux__
 > ~/.tmux.conf
+
+__bashrc__
+> Añadir a ~/.basrc, al final del archivo mismamente
+
+__mocp__
+> Copiar en /usr/share/moc/themes/
