@@ -3,7 +3,7 @@ dot-files
 
 Archivos de configuracion de diferentes programas
 
-__Sublime-Text-2__
+__Sublime-Text__
 > Ir a 'Preferences', buscar la opción y pegar ahí el contenido.
 
 __vim__
